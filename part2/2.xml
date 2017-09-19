@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE aribal PUBLIC "Arifmed24" "http://kodaktor.ru/j/dtd_40bb1">
+<aribal>
+    <competencies>
+        <competency in="HTML" level="basic syntax"/>
+        <competency in="CSS" level="basic syntax"/>
+        <competency in="Javascript" level="middle" experience="1 year">
+            <technology name="ReactJS"/>
+            <technology name="Redux"/>
+        </competency>
+        <competency in="Java" level="skilled" experience="3 years">
+            <technology name="JavaEE"/>
+            <technology name="Spring Framework"/>
+            <technology name="EJB"/>
+            <technology name="CDI"/>
+            <technology name="JPA"/>
+            <technology name="WebSocket"/>
+            <technology name="Servlet"/>
+            <technology name="JUnit"/>
+            <technology name="Maven"/>
+        </competency>
+        <competency in="VCS" level="basic syntax">
+            <technology name="Git"/>
+            <technology name="SVN"/>
+        </competency>
+        <competency in="MySQL" level="basic syntax"/>
+        <competency in="Oracle" level="basic syntax"/>
+    </competencies>
+</aribal>
